@@ -4,27 +4,15 @@
     "nation": "saxony",
     "branch": "army",
     "name": "Army of Saxony",
-    "strength": 23000,
+    "strength": 20000,
     "commander": "",
-    "lat": 50.878777255570405,
-    "lon": 13.540649414062502,
-    "turnStartLat": 50.878777255570405,
-    "turnStartLon": 13.540649414062502,
+    "lat": 53.657635378209996,
+    "lon": 11.085602045059206,
+    "turnStartLat": 53.657635378209996,
+    "turnStartLon": 11.085602045059206,
     "kmMovedThisTurn": 0,
-    "createdAtTurn": 50
-  },
-  {
-    "id": "KingREN1-Suitman-1783985776142-2",
-    "nation": "saxony",
-    "branch": "army",
-    "name": "Dresden Garrison",
-    "strength": 5000,
-    "commander": "",
-    "lat": 51.04484764446179,
-    "lon": 13.842773437500002,
-    "turnStartLat": 51.04484764446179,
-    "turnStartLon": 13.842773437500002,
-    "kmMovedThisTurn": 0,
-    "createdAtTurn": 50
+    "createdAtTurn": 50,
+    "turnStartStrength": 20000,
+    "turnStartBranch": "army"
   }
 ]

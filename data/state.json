@@ -1,5 +1,5 @@
 {
-  "appVersion": "theatrum/v9",
+  "appVersion": "theatrum/v10",
   "ownerships": [
     [
       0,
@@ -63,15 +63,15 @@
     ],
     [
       15,
-      "tibet"
+      "china"
     ],
     [
       16,
-      "contested territories"
+      "china"
     ],
     [
       17,
-      "tibet"
+      "china"
     ],
     [
       18,
@@ -111,7 +111,7 @@
     ],
     [
       27,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       28,
@@ -191,11 +191,11 @@
     ],
     [
       47,
-      "unclaimed"
+      "netherlands"
     ],
     [
       48,
-      "unclaimed"
+      "latin empire"
     ],
     [
       49,
@@ -299,7 +299,7 @@
     ],
     [
       74,
-      "contested territories"
+      "russia"
     ],
     [
       75,
@@ -379,23 +379,23 @@
     ],
     [
       94,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       95,
-      "contested territories"
+      "kazakh khanate (russia)"
     ],
     [
       96,
-      "kazakh khanates"
+      "kazakh khanate (russia)"
     ],
     [
       97,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       98,
-      "contested territories"
+      "russia"
     ],
     [
       99,
@@ -415,7 +415,7 @@
     ],
     [
       103,
-      "portugal"
+      "latin empire"
     ],
     [
       104,
@@ -463,23 +463,23 @@
     ],
     [
       115,
-      "contested territories"
+      "russia"
     ],
     [
       116,
-      "bohemia"
+      "bavaria"
     ],
     [
       117,
-      "contested territories"
+      "saxony"
     ],
     [
       118,
-      "bohemia"
+      "bavaria"
     ],
     [
       119,
-      "bohemia"
+      "bavaria"
     ],
     [
       120,
@@ -487,11 +487,11 @@
     ],
     [
       121,
-      "bohemia"
+      "bavaria"
     ],
     [
       122,
-      "bohemia"
+      "bavaria"
     ],
     [
       123,
@@ -795,7 +795,7 @@
     ],
     [
       198,
-      "sweden"
+      "bavaria"
     ],
     [
       199,
@@ -843,7 +843,7 @@
     ],
     [
       210,
-      "crimea"
+      "crimean khanate (russia)"
     ],
     [
       211,
@@ -1011,15 +1011,15 @@
     ],
     [
       252,
-      "kazakh khanates"
+      "kazakh khanate (russia)"
     ],
     [
       253,
-      "kazakh khanates"
+      "kazakh khanate (russia)"
     ],
     [
       254,
-      "kazakh khanates"
+      "kazakh khanate (russia)"
     ],
     [
       255,
@@ -1039,39 +1039,39 @@
     ],
     [
       259,
-      "kazakh khanates"
+      "kazakh khanate (russia)"
     ],
     [
       260,
-      "kazakh khanates"
+      "kazakh khanate (russia)"
     ],
     [
       261,
-      "kazakh khanates"
+      "kazakh khanate (russia)"
     ],
     [
       262,
-      "kazakh khanates"
+      "kazakh khanate (russia)"
     ],
     [
       263,
-      "unclaimed"
+      "latin empire"
     ],
     [
       264,
-      "unclaimed"
+      "latin empire"
     ],
     [
       265,
-      "unclaimed"
+      "latin empire"
     ],
     [
       266,
-      "unclaimed"
+      "latin empire"
     ],
     [
       267,
-      "unclaimed"
+      "latin empire"
     ],
     [
       268,
@@ -1087,7 +1087,7 @@
     ],
     [
       271,
-      "unclaimed"
+      "latin empire"
     ],
     [
       272,
@@ -1215,23 +1215,23 @@
     ],
     [
       303,
-      "kazakh khanates"
+      "kazakh khanate (russia)"
     ],
     [
       304,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       305,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       306,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       307,
-      "kazakh khanates"
+      "kazakh khanate (russia)"
     ],
     [
       308,
@@ -1239,7 +1239,7 @@
     ],
     [
       309,
-      "poland-lithuania"
+      "brandenburg-prussia"
     ],
     [
       310,
@@ -1299,35 +1299,35 @@
     ],
     [
       324,
-      "poland-lithuania"
+      "brandenburg-prussia"
     ],
     [
       325,
-      "bohemia"
+      "bavaria"
     ],
     [
       326,
-      "poland-lithuania"
+      "brandenburg-prussia"
     ],
     [
       327,
-      "bohemia"
+      "bavaria"
     ],
     [
       328,
-      "bohemia"
+      "bavaria"
     ],
     [
       329,
-      "bohemia"
+      "bavaria"
     ],
     [
       330,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       331,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       332,
@@ -1431,11 +1431,11 @@
     ],
     [
       357,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       358,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       359,
@@ -1443,7 +1443,7 @@
     ],
     [
       360,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       361,
@@ -1451,7 +1451,7 @@
     ],
     [
       362,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       363,
@@ -1459,7 +1459,7 @@
     ],
     [
       364,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       365,
@@ -1511,15 +1511,15 @@
     ],
     [
       377,
-      "austrian duchies"
+      "bavaria"
     ],
     [
       378,
-      "bohemia"
+      "bavaria"
     ],
     [
       379,
-      "austrian duchies"
+      "bavaria"
     ],
     [
       380,
@@ -1543,11 +1543,11 @@
     ],
     [
       385,
-      "hungary"
+      "bavaria"
     ],
     [
       386,
-      "hungary"
+      "bavaria"
     ],
     [
       387,
@@ -1587,15 +1587,15 @@
     ],
     [
       396,
-      "austrian duchies"
+      "bavaria"
     ],
     [
       397,
-      "austrian duchies"
+      "bavaria"
     ],
     [
       398,
-      "austrian duchies"
+      "bavaria"
     ],
     [
       399,
@@ -1847,7 +1847,7 @@
     ],
     [
       461,
-      "portugal"
+      "latin empire"
     ],
     [
       462,
@@ -1943,7 +1943,7 @@
     ],
     [
       485,
-      "portugal"
+      "latin empire"
     ],
     [
       486,
@@ -1979,7 +1979,7 @@
     ],
     [
       494,
-      "hungary"
+      "bavaria"
     ],
     [
       495,
@@ -2047,7 +2047,7 @@
     ],
     [
       511,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       512,
@@ -2151,7 +2151,7 @@
     ],
     [
       537,
-      "mughal empire"
+      "netherlands"
     ],
     [
       538,
@@ -2163,7 +2163,7 @@
     ],
     [
       540,
-      "mughal empire"
+      "minor indian states"
     ],
     [
       541,
@@ -2327,7 +2327,7 @@
     ],
     [
       581,
-      "portugal"
+      "latin empire"
     ],
     [
       582,
@@ -2335,11 +2335,11 @@
     ],
     [
       583,
-      "portugal"
+      "latin empire"
     ],
     [
       584,
-      "portugal"
+      "latin empire"
     ],
     [
       585,
@@ -2355,7 +2355,7 @@
     ],
     [
       588,
-      "austrian duchies"
+      "bavaria"
     ],
     [
       589,
@@ -2363,7 +2363,7 @@
     ],
     [
       590,
-      "austrian duchies"
+      "bavaria"
     ],
     [
       591,
@@ -2379,7 +2379,7 @@
     ],
     [
       594,
-      "contested territories"
+      "unclaimed"
     ],
     [
       595,
@@ -2395,7 +2395,7 @@
     ],
     [
       598,
-      "hungary"
+      "bavaria"
     ],
     [
       599,
@@ -2411,39 +2411,39 @@
     ],
     [
       602,
-      "hungary"
+      "bavaria"
     ],
     [
       603,
-      "hungary"
+      "bavaria"
     ],
     [
       604,
-      "hungary"
+      "bavaria"
     ],
     [
       605,
-      "hungary"
+      "bavaria"
     ],
     [
       606,
-      "hungary"
+      "bavaria"
     ],
     [
       607,
-      "hungary"
+      "bavaria"
     ],
     [
       608,
-      "hungary"
+      "bavaria"
     ],
     [
       609,
-      "hungary"
+      "bavaria"
     ],
     [
       610,
-      "portugal"
+      "latin empire"
     ],
     [
       611,
@@ -2487,7 +2487,7 @@
     ],
     [
       621,
-      "mughal empire"
+      "netherlands"
     ],
     [
       622,
@@ -2559,7 +2559,7 @@
     ],
     [
       639,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       640,
@@ -2779,7 +2779,7 @@
     ],
     [
       694,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       695,
@@ -3011,7 +3011,7 @@
     ],
     [
       752,
-      "unclaimed"
+      "latin empire"
     ],
     [
       753,
@@ -3031,11 +3031,11 @@
     ],
     [
       757,
-      "portugal"
+      "latin empire"
     ],
     [
       758,
-      "portugal"
+      "latin empire"
     ],
     [
       759,
@@ -3147,99 +3147,99 @@
     ],
     [
       786,
-      "portugal"
+      "latin empire"
     ],
     [
       787,
-      "portugal"
+      "latin empire"
     ],
     [
       788,
-      "hungary"
+      "bavaria"
     ],
     [
       789,
-      "austrian duchies"
+      "bavaria"
     ],
     [
       790,
-      "hungary"
+      "bavaria"
     ],
     [
       791,
-      "hungary"
+      "bavaria"
     ],
     [
       792,
-      "hungary"
+      "bavaria"
     ],
     [
       793,
-      "hungary"
+      "bavaria"
     ],
     [
       794,
-      "hungary"
+      "bavaria"
     ],
     [
       795,
-      "hungary"
+      "bavaria"
     ],
     [
       796,
-      "hungary"
+      "bavaria"
     ],
     [
       797,
-      "hungary"
+      "bavaria"
     ],
     [
       798,
-      "hungary"
+      "bavaria"
     ],
     [
       799,
-      "hungary"
+      "bavaria"
     ],
     [
       800,
-      "hungary"
+      "bavaria"
     ],
     [
       801,
-      "hungary"
+      "bavaria"
     ],
     [
       802,
-      "hungary"
+      "bavaria"
     ],
     [
       803,
-      "hungary"
+      "bavaria"
     ],
     [
       804,
-      "hungary"
+      "bavaria"
     ],
     [
       805,
-      "hungary"
+      "bavaria"
     ],
     [
       806,
-      "hungary"
+      "bavaria"
     ],
     [
       807,
-      "hungary"
+      "bavaria"
     ],
     [
       808,
-      "hungary"
+      "bavaria"
     ],
     [
       809,
-      "hungary"
+      "bavaria"
     ],
     [
       810,
@@ -3335,7 +3335,7 @@
     ],
     [
       833,
-      "hungary"
+      "bavaria"
     ],
     [
       834,
@@ -3347,7 +3347,7 @@
     ],
     [
       836,
-      "bohemia"
+      "bavaria"
     ],
     [
       837,
@@ -3391,7 +3391,7 @@
     ],
     [
       847,
-      "sweden"
+      "brandenburg-prussia"
     ],
     [
       848,
@@ -3499,23 +3499,23 @@
     ],
     [
       874,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       875,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       876,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       877,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       878,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       879,
@@ -3523,15 +3523,15 @@
     ],
     [
       880,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       881,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       882,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       883,
@@ -3539,15 +3539,15 @@
     ],
     [
       884,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       885,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       886,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       887,
@@ -3555,7 +3555,7 @@
     ],
     [
       888,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       889,
@@ -3571,7 +3571,7 @@
     ],
     [
       892,
-      "poland-lithuania"
+      "ottoman empire"
     ],
     [
       893,
@@ -3579,7 +3579,7 @@
     ],
     [
       894,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       895,
@@ -3587,55 +3587,55 @@
     ],
     [
       896,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       897,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       898,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       899,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       900,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       901,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       902,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       903,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       904,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       905,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       906,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       907,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       908,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       909,
@@ -3691,7 +3691,7 @@
     ],
     [
       922,
-      "crimea"
+      "crimean khanate (russia)"
     ],
     [
       923,
@@ -3699,11 +3699,11 @@
     ],
     [
       924,
-      "crimea"
+      "crimean khanate (russia)"
     ],
     [
       925,
-      "crimea"
+      "crimean khanate (russia)"
     ],
     [
       926,
@@ -3767,7 +3767,7 @@
     ],
     [
       941,
-      "contested territories"
+      "russia"
     ],
     [
       942,
@@ -3851,67 +3851,67 @@
     ],
     [
       962,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       963,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       964,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       965,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       966,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       967,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       968,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       969,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       970,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       971,
-      "khiva"
+      "khanate of khiva (russia)"
     ],
     [
       972,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       973,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       974,
-      "khiva"
+      "khanate of khiva (russia)"
     ],
     [
       975,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       976,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       977,
-      "khiva"
+      "khanate of khiva (russia)"
     ],
     [
       978,
@@ -4059,15 +4059,15 @@
     ],
     [
       1014,
-      "mughal empire"
+      "minor indian states"
     ],
     [
       1015,
-      "mughal empire"
+      "minor indian states"
     ],
     [
       1016,
-      "mughal empire"
+      "minor indian states"
     ],
     [
       1017,
@@ -4431,7 +4431,7 @@
     ],
     [
       1107,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       1108,
@@ -4443,11 +4443,11 @@
     ],
     [
       1110,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       1111,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       1112,
@@ -4455,7 +4455,7 @@
     ],
     [
       1113,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       1114,
@@ -4463,7 +4463,7 @@
     ],
     [
       1115,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       1116,
@@ -4819,7 +4819,7 @@
     ],
     [
       1204,
-      "portugal"
+      "latin empire"
     ],
     [
       1205,
@@ -4827,7 +4827,7 @@
     ],
     [
       1206,
-      "portugal"
+      "latin empire"
     ],
     [
       1207,
@@ -4895,35 +4895,35 @@
     ],
     [
       1223,
-      "mughal empire"
+      "netherlands"
     ],
     [
       1224,
-      "mughal empire"
+      "netherlands"
     ],
     [
       1225,
-      "mughal empire"
+      "netherlands"
     ],
     [
       1226,
-      "mughal empire"
+      "netherlands"
     ],
     [
       1227,
-      "mughal empire"
+      "netherlands"
     ],
     [
       1228,
-      "mughal empire"
+      "netherlands"
     ],
     [
       1229,
-      "mughal empire"
+      "netherlands"
     ],
     [
       1230,
-      "portugal"
+      "latin empire"
     ],
     [
       1231,
@@ -4955,11 +4955,11 @@
     ],
     [
       1238,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1239,
-      "unclaimed"
+      "north sea empire"
     ],
     [
       1240,
@@ -5019,7 +5019,7 @@
     ],
     [
       1254,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1255,
@@ -5043,7 +5043,7 @@
     ],
     [
       1260,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1261,
@@ -5179,19 +5179,19 @@
     ],
     [
       1294,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1295,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1296,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1297,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1298,
@@ -5239,7 +5239,7 @@
     ],
     [
       1309,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1310,
@@ -5255,7 +5255,7 @@
     ],
     [
       1313,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1314,
@@ -5263,7 +5263,7 @@
     ],
     [
       1315,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1316,
@@ -5291,7 +5291,7 @@
     ],
     [
       1322,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1323,
@@ -5311,35 +5311,35 @@
     ],
     [
       1327,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1328,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1329,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1330,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1331,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1332,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1333,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1334,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1335,
@@ -5347,15 +5347,15 @@
     ],
     [
       1336,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1337,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1338,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1339,
@@ -5391,11 +5391,11 @@
     ],
     [
       1347,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1348,
-      "poland-lithuania"
+      "brandenburg-prussia"
     ],
     [
       1349,
@@ -5411,123 +5411,123 @@
     ],
     [
       1352,
-      "khiva"
+      "khanate of khiva (russia)"
     ],
     [
       1353,
-      "kazakh khanates"
+      "kazakh khanate (russia)"
     ],
     [
       1354,
-      "kazakh khanates"
+      "kazakh khanate (russia)"
     ],
     [
       1355,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       1356,
-      "kazakh khanates"
+      "kazakh khanate (russia)"
     ],
     [
       1357,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       1358,
-      "khiva"
+      "khanate of khiva (russia)"
     ],
     [
       1359,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       1360,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       1361,
-      "mughal empire"
+      "persia"
     ],
     [
       1362,
-      "mughal empire"
+      "persia"
     ],
     [
       1363,
-      "mughal empire"
+      "persia"
     ],
     [
       1364,
-      "mughal empire"
+      "persia"
     ],
     [
       1365,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1366,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1367,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1368,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1369,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1370,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1371,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1372,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1373,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1374,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1375,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1376,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1377,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1378,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1379,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1380,
-      "contested territories"
+      "kazakh khanate (russia)"
     ],
     [
       1381,
-      "contested territories"
+      "russia"
     ],
     [
       1382,
@@ -5535,19 +5535,19 @@
     ],
     [
       1383,
-      "contested territories"
+      "russia"
     ],
     [
       1384,
-      "kazakh khanates"
+      "kazakh khanate (russia)"
     ],
     [
       1385,
-      "contested territories"
+      "kazakh khanate (russia)"
     ],
     [
       1386,
-      "contested territories"
+      "russia"
     ],
     [
       1387,
@@ -5555,7 +5555,7 @@
     ],
     [
       1388,
-      "contested territories"
+      "russia"
     ],
     [
       1389,
@@ -5563,7 +5563,7 @@
     ],
     [
       1390,
-      "kalmyk khanate"
+      "kalmyk khanate (russia)"
     ],
     [
       1391,
@@ -5571,7 +5571,7 @@
     ],
     [
       1392,
-      "kalmyk khanate"
+      "kalmyk khanate (russia)"
     ],
     [
       1393,
@@ -5579,7 +5579,7 @@
     ],
     [
       1394,
-      "kalmyk khanate"
+      "kalmyk khanate (russia)"
     ],
     [
       1395,
@@ -5679,7 +5679,7 @@
     ],
     [
       1419,
-      "ottoman empire"
+      "unclaimed"
     ],
     [
       1420,
@@ -5691,7 +5691,7 @@
     ],
     [
       1422,
-      "ottoman empire"
+      "unclaimed"
     ],
     [
       1423,
@@ -5703,7 +5703,7 @@
     ],
     [
       1425,
-      "contested territories"
+      "unclaimed"
     ],
     [
       1426,
@@ -5711,7 +5711,7 @@
     ],
     [
       1427,
-      "contested territories"
+      "unclaimed"
     ],
     [
       1428,
@@ -5719,7 +5719,7 @@
     ],
     [
       1429,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       1430,
@@ -5731,7 +5731,7 @@
     ],
     [
       1432,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       1433,
@@ -5743,7 +5743,7 @@
     ],
     [
       1435,
-      "contested territories"
+      "unclaimed"
     ],
     [
       1436,
@@ -5803,7 +5803,7 @@
     ],
     [
       1450,
-      "contested territories"
+      "unclaimed"
     ],
     [
       1451,
@@ -5811,11 +5811,11 @@
     ],
     [
       1452,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       1453,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       1454,
@@ -5843,11 +5843,11 @@
     ],
     [
       1460,
-      "portugal"
+      "latin empire"
     ],
     [
       1461,
-      "portugal"
+      "latin empire"
     ],
     [
       1462,
@@ -5855,7 +5855,7 @@
     ],
     [
       1463,
-      "portugal"
+      "latin empire"
     ],
     [
       1464,
@@ -5971,11 +5971,11 @@
     ],
     [
       1492,
-      "portugal"
+      "latin empire"
     ],
     [
       1493,
-      "portugal"
+      "latin empire"
     ],
     [
       1494,
@@ -5983,7 +5983,7 @@
     ],
     [
       1495,
-      "portugal"
+      "latin empire"
     ],
     [
       1496,
@@ -5991,7 +5991,7 @@
     ],
     [
       1497,
-      "portugal"
+      "latin empire"
     ],
     [
       1498,
@@ -6011,7 +6011,7 @@
     ],
     [
       1502,
-      "portugal"
+      "latin empire"
     ],
     [
       1503,
@@ -6019,7 +6019,7 @@
     ],
     [
       1504,
-      "portugal"
+      "latin empire"
     ],
     [
       1505,
@@ -6027,15 +6027,15 @@
     ],
     [
       1506,
-      "portugal"
+      "latin empire"
     ],
     [
       1507,
-      "portugal"
+      "latin empire"
     ],
     [
       1508,
-      "portugal"
+      "latin empire"
     ],
     [
       1509,
@@ -6043,15 +6043,15 @@
     ],
     [
       1510,
-      "portugal"
+      "latin empire"
     ],
     [
       1511,
-      "portugal"
+      "latin empire"
     ],
     [
       1512,
-      "portugal"
+      "latin empire"
     ],
     [
       1513,
@@ -6103,15 +6103,15 @@
     ],
     [
       1525,
-      "ottoman empire"
+      "unclaimed"
     ],
     [
       1526,
-      "ottoman empire"
+      "unclaimed"
     ],
     [
       1527,
-      "ottoman empire"
+      "unclaimed"
     ],
     [
       1528,
@@ -6291,7 +6291,7 @@
     ],
     [
       1572,
-      "portugal"
+      "latin empire"
     ],
     [
       1573,
@@ -6399,7 +6399,7 @@
     ],
     [
       1599,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       1600,
@@ -6411,7 +6411,7 @@
     ],
     [
       1602,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       1603,
@@ -6435,27 +6435,27 @@
     ],
     [
       1608,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1609,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1610,
-      "mughal empire"
+      "maratha confederacy"
     ],
     [
       1611,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1612,
-      "mughal empire"
+      "maratha confederacy"
     ],
     [
       1613,
-      "poland-lithuania"
+      "sweden"
     ],
     [
       1614,
@@ -6463,15 +6463,15 @@
     ],
     [
       1615,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       1616,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       1617,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       1618,
@@ -6487,11 +6487,11 @@
     ],
     [
       1621,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       1622,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       1623,
@@ -6503,7 +6503,7 @@
     ],
     [
       1625,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1626,
@@ -6519,11 +6519,11 @@
     ],
     [
       1629,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1630,
-      "kazakh khanates"
+      "kazakh khanate (russia)"
     ],
     [
       1631,
@@ -6555,19 +6555,19 @@
     ],
     [
       1638,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1639,
-      "crimea"
+      "crimean khanate (russia)"
     ],
     [
       1640,
-      "crimea"
+      "crimean khanate (russia)"
     ],
     [
       1641,
-      "mughal empire"
+      "netherlands"
     ],
     [
       1642,
@@ -6579,7 +6579,7 @@
     ],
     [
       1644,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1645,
@@ -6635,47 +6635,47 @@
     ],
     [
       1658,
-      "hungary"
+      "bavaria"
     ],
     [
       1659,
-      "hungary"
+      "bavaria"
     ],
     [
       1660,
-      "hungary"
+      "bavaria"
     ],
     [
       1661,
-      "hungary"
+      "bavaria"
     ],
     [
       1662,
-      "hungary"
+      "bavaria"
     ],
     [
       1663,
-      "hungary"
+      "bavaria"
     ],
     [
       1664,
-      "hungary"
+      "bavaria"
     ],
     [
       1665,
-      "hungary"
+      "bavaria"
     ],
     [
       1666,
-      "hungary"
+      "bavaria"
     ],
     [
       1667,
-      "hungary"
+      "bavaria"
     ],
     [
       1668,
-      "hungary"
+      "bavaria"
     ],
     [
       1669,
@@ -6683,23 +6683,23 @@
     ],
     [
       1670,
-      "hungary"
+      "bavaria"
     ],
     [
       1671,
-      "hungary"
+      "bavaria"
     ],
     [
       1672,
-      "hungary"
+      "bavaria"
     ],
     [
       1673,
-      "hungary"
+      "bavaria"
     ],
     [
       1674,
-      "hungary"
+      "bavaria"
     ],
     [
       1675,
@@ -6707,23 +6707,23 @@
     ],
     [
       1676,
-      "hungary"
+      "bavaria"
     ],
     [
       1677,
-      "hungary"
+      "bavaria"
     ],
     [
       1678,
-      "hungary"
+      "bavaria"
     ],
     [
       1679,
-      "hungary"
+      "bavaria"
     ],
     [
       1680,
-      "hungary"
+      "bavaria"
     ],
     [
       1681,
@@ -6731,7 +6731,7 @@
     ],
     [
       1682,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       1683,
@@ -6739,7 +6739,7 @@
     ],
     [
       1684,
-      "portugal"
+      "latin empire"
     ],
     [
       1685,
@@ -6747,11 +6747,11 @@
     ],
     [
       1686,
-      "portugal"
+      "latin empire"
     ],
     [
       1687,
-      "portugal"
+      "latin empire"
     ],
     [
       1688,
@@ -6759,7 +6759,7 @@
     ],
     [
       1689,
-      "portugal"
+      "latin empire"
     ],
     [
       1690,
@@ -6767,11 +6767,11 @@
     ],
     [
       1691,
-      "portugal"
+      "latin empire"
     ],
     [
       1692,
-      "portugal"
+      "latin empire"
     ],
     [
       1693,
@@ -6783,11 +6783,11 @@
     ],
     [
       1695,
-      "portugal"
+      "latin empire"
     ],
     [
       1696,
-      "portugal"
+      "latin empire"
     ],
     [
       1697,
@@ -6903,55 +6903,55 @@
     ],
     [
       1725,
-      "north sea empire"
+      "latin empire"
     ],
     [
       1726,
-      "portugal"
+      "latin empire"
     ],
     [
       1727,
-      "portugal"
+      "latin empire"
     ],
     [
       1728,
-      "portugal"
+      "latin empire"
     ],
     [
       1729,
-      "portugal"
+      "latin empire"
     ],
     [
       1730,
-      "portugal"
+      "latin empire"
     ],
     [
       1731,
-      "portugal"
+      "latin empire"
     ],
     [
       1732,
-      "portugal"
+      "latin empire"
     ],
     [
       1733,
-      "portugal"
+      "latin empire"
     ],
     [
       1734,
-      "portugal"
+      "latin empire"
     ],
     [
       1735,
-      "portugal"
+      "latin empire"
     ],
     [
       1736,
-      "portugal"
+      "latin empire"
     ],
     [
       1737,
-      "portugal"
+      "latin empire"
     ],
     [
       1738,
@@ -6999,55 +6999,55 @@
     ],
     [
       1749,
-      "avic"
+      "madagaskar"
     ],
     [
       1750,
-      "avic"
+      "madagaskar"
     ],
     [
       1751,
-      "avic"
+      "madagaskar"
     ],
     [
       1752,
-      "avic"
+      "madagaskar"
     ],
     [
       1753,
-      "avic"
+      "madagaskar"
     ],
     [
       1754,
-      "avic"
+      "madagaskar"
     ],
     [
       1755,
-      "avic"
+      "madagaskar"
     ],
     [
       1756,
-      "avic"
+      "madagaskar"
     ],
     [
       1757,
-      "avic"
+      "madagaskar"
     ],
     [
       1758,
-      "avic"
+      "madagaskar"
     ],
     [
       1759,
-      "avic"
+      "madagaskar"
     ],
     [
       1760,
-      "unclaimed"
+      "madagaskar"
     ],
     [
       1761,
-      "unclaimed"
+      "madagaskar"
     ],
     [
       1762,
@@ -7071,11 +7071,11 @@
     ],
     [
       1767,
-      "portugal"
+      "latin empire"
     ],
     [
       1768,
-      "portugal"
+      "latin empire"
     ],
     [
       1769,
@@ -7091,15 +7091,15 @@
     ],
     [
       1772,
-      "portugal"
+      "latin empire"
     ],
     [
       1773,
-      "portugal"
+      "latin empire"
     ],
     [
       1774,
-      "portugal"
+      "latin empire"
     ],
     [
       1775,
@@ -7287,7 +7287,7 @@
     ],
     [
       1821,
-      "spain"
+      "latin empire"
     ],
     [
       1822,
@@ -7331,7 +7331,7 @@
     ],
     [
       1832,
-      "spain"
+      "latin empire"
     ],
     [
       1833,
@@ -7339,11 +7339,11 @@
     ],
     [
       1834,
-      "spain"
+      "latin empire"
     ],
     [
       1835,
-      "spain"
+      "latin empire"
     ],
     [
       1836,
@@ -7351,95 +7351,95 @@
     ],
     [
       1837,
-      "spain"
+      "latin empire"
     ],
     [
       1838,
-      "spain"
+      "latin empire"
     ],
     [
       1839,
-      "spain"
+      "latin empire"
     ],
     [
       1840,
-      "spain"
+      "latin empire"
     ],
     [
       1841,
-      "spain"
+      "latin empire"
     ],
     [
       1842,
-      "spain"
+      "latin empire"
     ],
     [
       1843,
-      "spain"
+      "latin empire"
     ],
     [
       1844,
-      "spain"
+      "latin empire"
     ],
     [
       1845,
-      "spain"
+      "latin empire"
     ],
     [
       1846,
-      "spain"
+      "latin empire"
     ],
     [
       1847,
-      "spain"
+      "latin empire"
     ],
     [
       1848,
-      "spain"
+      "latin empire"
     ],
     [
       1849,
-      "spain"
+      "latin empire"
     ],
     [
       1850,
-      "spain"
+      "latin empire"
     ],
     [
       1851,
-      "spain"
+      "latin empire"
     ],
     [
       1852,
-      "spain"
+      "latin empire"
     ],
     [
       1853,
-      "spain"
+      "latin empire"
     ],
     [
       1854,
-      "spain"
+      "latin empire"
     ],
     [
       1855,
-      "spain"
+      "latin empire"
     ],
     [
       1856,
-      "spain"
+      "latin empire"
     ],
     [
       1857,
-      "spain"
+      "latin empire"
     ],
     [
       1858,
-      "spain"
+      "latin empire"
     ],
     [
       1859,
-      "netherlands"
+      "kandy"
     ],
     [
       1860,
@@ -7483,7 +7483,7 @@
     ],
     [
       1870,
-      "netherlands"
+      "kandy"
     ],
     [
       1871,
@@ -7495,7 +7495,7 @@
     ],
     [
       1873,
-      "spain"
+      "latin empire"
     ],
     [
       1874,
@@ -7515,19 +7515,19 @@
     ],
     [
       1878,
-      "spain"
+      "latin empire"
     ],
     [
       1879,
-      "spain"
+      "latin empire"
     ],
     [
       1880,
-      "spain"
+      "latin empire"
     ],
     [
       1881,
-      "spain"
+      "latin empire"
     ],
     [
       1882,
@@ -7615,7 +7615,7 @@
     ],
     [
       1903,
-      "unclaimed"
+      "latin empire"
     ],
     [
       1904,
@@ -7651,7 +7651,7 @@
     ],
     [
       1912,
-      "mughal empire"
+      "swedish east india company"
     ],
     [
       1913,
@@ -7691,11 +7691,11 @@
     ],
     [
       1922,
-      "portugal"
+      "latin empire"
     ],
     [
       1923,
-      "portugal"
+      "latin empire"
     ],
     [
       1924,
@@ -7863,19 +7863,19 @@
     ],
     [
       1965,
-      "portugal"
+      "latin empire"
     ],
     [
       1966,
-      "portugal"
+      "latin empire"
     ],
     [
       1967,
-      "portugal"
+      "latin empire"
     ],
     [
       1968,
-      "portugal"
+      "latin empire"
     ],
     [
       1969,
@@ -7959,107 +7959,107 @@
     ],
     [
       1989,
-      "spain"
+      "latin empire"
     ],
     [
       1990,
-      "spain"
+      "latin empire"
     ],
     [
       1991,
-      "spain"
+      "latin empire"
     ],
     [
       1992,
-      "spain"
+      "latin empire"
     ],
     [
       1993,
-      "spain"
+      "latin empire"
     ],
     [
       1994,
-      "spain"
+      "latin empire"
     ],
     [
       1995,
-      "spain"
+      "latin empire"
     ],
     [
       1996,
-      "spain"
+      "latin empire"
     ],
     [
       1997,
-      "spain"
+      "latin empire"
     ],
     [
       1998,
-      "spain"
+      "latin empire"
     ],
     [
       1999,
-      "spain"
+      "latin empire"
     ],
     [
       2000,
-      "spain"
+      "latin empire"
     ],
     [
       2001,
-      "spain"
+      "latin empire"
     ],
     [
       2002,
-      "spain"
+      "latin empire"
     ],
     [
       2003,
-      "spain"
+      "latin empire"
     ],
     [
       2004,
-      "spain"
+      "latin empire"
     ],
     [
       2005,
-      "spain"
+      "latin empire"
     ],
     [
       2006,
-      "spain"
+      "latin empire"
     ],
     [
       2007,
-      "spain"
+      "latin empire"
     ],
     [
       2008,
-      "spain"
+      "latin empire"
     ],
     [
       2009,
-      "spain"
+      "latin empire"
     ],
     [
       2010,
-      "spain"
+      "latin empire"
     ],
     [
       2011,
-      "spain"
+      "latin empire"
     ],
     [
       2012,
-      "spain"
+      "latin empire"
     ],
     [
       2013,
-      "spain"
+      "latin empire"
     ],
     [
       2014,
-      "spain"
+      "latin empire"
     ],
     [
       2015,
@@ -8303,11 +8303,11 @@
     ],
     [
       2075,
-      "unclaimed"
+      "north sea empire"
     ],
     [
       2076,
-      "unclaimed"
+      "north sea empire"
     ],
     [
       2077,
@@ -8479,11 +8479,11 @@
     ],
     [
       2119,
-      "contested territories"
+      "persia"
     ],
     [
       2120,
-      "mughal empire"
+      "persia"
     ],
     [
       2121,
@@ -8691,7 +8691,7 @@
     ],
     [
       2172,
-      "unclaimed"
+      "north sea empire"
     ],
     [
       2173,
@@ -8715,11 +8715,11 @@
     ],
     [
       2178,
-      "mughal empire"
+      "maratha confederacy"
     ],
     [
       2179,
-      "mughal empire"
+      "netherlands"
     ],
     [
       2180,
@@ -8947,7 +8947,7 @@
     ],
     [
       2236,
-      "portugal"
+      "latin empire"
     ],
     [
       2237,
@@ -8955,7 +8955,7 @@
     ],
     [
       2238,
-      "portugal"
+      "latin empire"
     ],
     [
       2239,
@@ -8963,7 +8963,7 @@
     ],
     [
       2240,
-      "mysore"
+      "minor indian states"
     ],
     [
       2241,
@@ -8971,7 +8971,7 @@
     ],
     [
       2242,
-      "seic"
+      "swedish east india company"
     ],
     [
       2243,
@@ -9087,7 +9087,7 @@
     ],
     [
       2271,
-      "crimea"
+      "crimean khanate (russia)"
     ],
     [
       2272,
@@ -9095,7 +9095,7 @@
     ],
     [
       2273,
-      "contested territories"
+      "ottoman empire"
     ],
     [
       2274,
@@ -9239,7 +9239,7 @@
     ],
     [
       2309,
-      "britain"
+      "north sea empire"
     ],
     [
       2310,
@@ -9247,7 +9247,7 @@
     ],
     [
       2311,
-      "britain"
+      "north sea empire"
     ],
     [
       2312,
@@ -9467,7 +9467,7 @@
     ],
     [
       2366,
-      "unclaimed"
+      "north sea empire"
     ],
     [
       2367,
@@ -9811,7 +9811,7 @@
     ],
     [
       2452,
-      "hungary"
+      "bavaria"
     ],
     [
       2453,
@@ -10039,31 +10039,31 @@
     ],
     [
       2509,
-      "portugal"
+      "latin empire"
     ],
     [
       2510,
-      "portugal"
+      "latin empire"
     ],
     [
       2511,
-      "portugal"
+      "latin empire"
     ],
     [
       2512,
-      "portugal"
+      "latin empire"
     ],
     [
       2513,
-      "portugal"
+      "latin empire"
     ],
     [
       2514,
-      "portugal"
+      "latin empire"
     ],
     [
       2515,
-      "portugal"
+      "latin empire"
     ],
     [
       2516,
@@ -10183,15 +10183,15 @@
     ],
     [
       2545,
-      "unclaimed"
+      "north sea empire"
     ],
     [
       2546,
-      "denmark"
+      "north sea empire"
     ],
     [
       2547,
-      "unclaimed"
+      "north sea empire"
     ],
     [
       2548,
@@ -10215,7 +10215,7 @@
     ],
     [
       2553,
-      "seic"
+      "swedish east india company"
     ],
     [
       2554,
@@ -10231,7 +10231,7 @@
     ],
     [
       2557,
-      "seic"
+      "swedish east india company"
     ],
     [
       2558,
@@ -11083,19 +11083,19 @@
     ],
     [
       2770,
-      "seic"
+      "swedish east india company"
     ],
     [
       2771,
-      "seic"
+      "swedish east india company"
     ],
     [
       2772,
-      "seic"
+      "swedish east india company"
     ],
     [
       2773,
-      "seic"
+      "swedish east india company"
     ],
     [
       2774,
@@ -11215,19 +11215,19 @@
     ],
     [
       2803,
-      "portugal"
+      "latin empire"
     ],
     [
       2804,
-      "portugal"
+      "latin empire"
     ],
     [
       2805,
-      "unclaimed"
+      "latin empire"
     ],
     [
       2806,
-      "unclaimed"
+      "latin empire"
     ],
     [
       2807,
@@ -11311,15 +11311,15 @@
     ],
     [
       2827,
-      "spain"
+      "latin empire"
     ],
     [
       2828,
-      "spain"
+      "latin empire"
     ],
     [
       2829,
-      "portugal"
+      "latin empire"
     ],
     [
       2830,
@@ -11459,7 +11459,7 @@
     ],
     [
       2864,
-      "portugal"
+      "latin empire"
     ],
     [
       2865,
@@ -11535,11 +11535,11 @@
     ],
     [
       2883,
-      "genoa"
+      "papal states"
     ],
     [
       2884,
-      "genoa"
+      "papal states"
     ],
     [
       2885,
@@ -11743,7 +11743,7 @@
     ],
     [
       2935,
-      "seic"
+      "swedish east india company"
     ],
     [
       2936,
@@ -11831,35 +11831,35 @@
     ],
     [
       2957,
-      "portugal"
+      "latin empire"
     ],
     [
       2958,
-      "portugal"
+      "latin empire"
     ],
     [
       2959,
-      "portugal"
+      "latin empire"
     ],
     [
       2960,
-      "portugal"
+      "latin empire"
     ],
     [
       2961,
-      "portugal"
+      "latin empire"
     ],
     [
       2962,
-      "portugal"
+      "latin empire"
     ],
     [
       2963,
-      "portugal"
+      "latin empire"
     ],
     [
       2964,
-      "portugal"
+      "latin empire"
     ],
     [
       2965,
@@ -11979,7 +11979,7 @@
     ],
     [
       2994,
-      "spain"
+      "latin empire"
     ],
     [
       2995,
@@ -11995,7 +11995,7 @@
     ],
     [
       2998,
-      "spain"
+      "latin empire"
     ],
     [
       2999,
@@ -12007,47 +12007,47 @@
     ],
     [
       3001,
-      "spain"
+      "latin empire"
     ],
     [
       3002,
-      "spain"
+      "latin empire"
     ],
     [
       3003,
-      "spain"
+      "latin empire"
     ],
     [
       3004,
-      "spain"
+      "latin empire"
     ],
     [
       3005,
-      "spain"
+      "latin empire"
     ],
     [
       3006,
-      "spain"
+      "latin empire"
     ],
     [
       3007,
-      "spain"
+      "latin empire"
     ],
     [
       3008,
-      "spain"
+      "latin empire"
     ],
     [
       3009,
-      "spain"
+      "latin empire"
     ],
     [
       3010,
-      "spain"
+      "latin empire"
     ],
     [
       3011,
-      "spain"
+      "latin empire"
     ],
     [
       3012,
@@ -12055,55 +12055,55 @@
     ],
     [
       3013,
-      "spain"
+      "latin empire"
     ],
     [
       3014,
-      "spain"
+      "latin empire"
     ],
     [
       3015,
-      "spain"
+      "latin empire"
     ],
     [
       3016,
-      "spain"
+      "latin empire"
     ],
     [
       3017,
-      "spain"
+      "latin empire"
     ],
     [
       3018,
-      "spain"
+      "latin empire"
     ],
     [
       3019,
-      "spain"
+      "latin empire"
     ],
     [
       3020,
-      "spain"
+      "latin empire"
     ],
     [
       3021,
-      "spain"
+      "latin empire"
     ],
     [
       3022,
-      "spain"
+      "latin empire"
     ],
     [
       3023,
-      "spain"
+      "latin empire"
     ],
     [
       3024,
-      "spain"
+      "latin empire"
     ],
     [
       3025,
-      "spain"
+      "latin empire"
     ],
     [
       3026,
@@ -12175,7 +12175,7 @@
     ],
     [
       3043,
-      "seic"
+      "swedish east india company"
     ],
     [
       3044,
@@ -12707,7 +12707,7 @@
     ],
     [
       3176,
-      "spain"
+      "latin empire"
     ],
     [
       3177,
@@ -12899,11 +12899,11 @@
     ],
     [
       3224,
-      "contested territories"
+      "russia"
     ],
     [
       3225,
-      "contested territories"
+      "russia"
     ],
     [
       3226,
@@ -12959,43 +12959,43 @@
     ],
     [
       3239,
-      "hungary"
+      "bavaria"
     ],
     [
       3240,
-      "hungary"
+      "bavaria"
     ],
     [
       3241,
-      "hungary"
+      "bavaria"
     ],
     [
       3242,
-      "hungary"
+      "bavaria"
     ],
     [
       3243,
-      "hungary"
+      "bavaria"
     ],
     [
       3244,
-      "hungary"
+      "bavaria"
     ],
     [
       3245,
-      "hungary"
+      "bavaria"
     ],
     [
       3246,
-      "hungary"
+      "bavaria"
     ],
     [
       3247,
-      "hungary"
+      "bavaria"
     ],
     [
       3248,
-      "hungary"
+      "bavaria"
     ],
     [
       3249,
@@ -13019,47 +13019,47 @@
     ],
     [
       3254,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       3255,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       3256,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       3257,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       3258,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       3259,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       3260,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       3261,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       3262,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       3263,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       3264,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       3265,
@@ -13087,23 +13087,23 @@
     ],
     [
       3271,
-      "mughal empire"
+      "netherlands"
     ],
     [
       3272,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       3273,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       3274,
-      "mughal empire"
+      "maratha confederacy"
     ],
     [
       3275,
-      "unclaimed"
+      "latin empire"
     ],
     [
       3276,
@@ -13111,7 +13111,7 @@
     ],
     [
       3277,
-      "unclaimed"
+      "latin empire"
     ],
     [
       3278,
@@ -13271,11 +13271,11 @@
     ],
     [
       3317,
-      "portugal"
+      "latin empire"
     ],
     [
       3318,
-      "portugal"
+      "latin empire"
     ],
     [
       3319,
@@ -13311,7 +13311,7 @@
     ],
     [
       3327,
-      "mughal empire"
+      "persia"
     ],
     [
       3328,
@@ -13335,107 +13335,107 @@
     ],
     [
       3333,
-      "hungary"
+      "bavaria"
     ],
     [
       3334,
-      "hungary"
+      "bavaria"
     ],
     [
       3335,
-      "hungary"
+      "bavaria"
     ],
     [
       3336,
-      "hungary"
+      "bavaria"
     ],
     [
       3337,
-      "hungary"
+      "bavaria"
     ],
     [
       3338,
-      "hungary"
+      "bavaria"
     ],
     [
       3339,
-      "hungary"
+      "bavaria"
     ],
     [
       3340,
-      "hungary"
+      "bavaria"
     ],
     [
       3341,
-      "hungary"
+      "bavaria"
     ],
     [
       3342,
-      "hungary"
+      "bavaria"
     ],
     [
       3343,
-      "hungary"
+      "bavaria"
     ],
     [
       3344,
-      "hungary"
+      "bavaria"
     ],
     [
       3345,
-      "hungary"
+      "bavaria"
     ],
     [
       3346,
-      "hungary"
+      "bavaria"
     ],
     [
       3347,
-      "hungary"
+      "bavaria"
     ],
     [
       3348,
-      "hungary"
+      "bavaria"
     ],
     [
       3349,
-      "hungary"
+      "bavaria"
     ],
     [
       3350,
-      "hungary"
+      "bavaria"
     ],
     [
       3351,
-      "hungary"
+      "bavaria"
     ],
     [
       3352,
-      "hungary"
+      "bavaria"
     ],
     [
       3353,
-      "hungary"
+      "bavaria"
     ],
     [
       3354,
-      "hungary"
+      "bavaria"
     ],
     [
       3355,
-      "hungary"
+      "bavaria"
     ],
     [
       3356,
-      "hungary"
+      "bavaria"
     ],
     [
       3357,
-      "hungary"
+      "bavaria"
     ],
     [
       3358,
-      "hungary"
+      "bavaria"
     ],
     [
       3359,
@@ -13451,151 +13451,151 @@
     ],
     [
       3362,
-      "hungary"
+      "bavaria"
     ],
     [
       3363,
-      "hungary"
+      "bavaria"
     ],
     [
       3364,
-      "hungary"
+      "bavaria"
     ],
     [
       3365,
-      "hungary"
+      "bavaria"
     ],
     [
       3366,
-      "hungary"
+      "bavaria"
     ],
     [
       3367,
-      "hungary"
+      "bavaria"
     ],
     [
       3368,
-      "hungary"
+      "bavaria"
     ],
     [
       3369,
-      "hungary"
+      "bavaria"
     ],
     [
       3370,
-      "hungary"
+      "bavaria"
     ],
     [
       3371,
-      "hungary"
+      "bavaria"
     ],
     [
       3372,
-      "hungary"
+      "bavaria"
     ],
     [
       3373,
-      "hungary"
+      "bavaria"
     ],
     [
       3374,
-      "hungary"
+      "bavaria"
     ],
     [
       3375,
-      "hungary"
+      "bavaria"
     ],
     [
       3376,
-      "hungary"
+      "bavaria"
     ],
     [
       3377,
-      "hungary"
+      "bavaria"
     ],
     [
       3378,
-      "hungary"
+      "bavaria"
     ],
     [
       3379,
-      "hungary"
+      "bavaria"
     ],
     [
       3380,
-      "hungary"
+      "bavaria"
     ],
     [
       3381,
-      "hungary"
+      "bavaria"
     ],
     [
       3382,
-      "hungary"
+      "bavaria"
     ],
     [
       3383,
-      "hungary"
+      "bavaria"
     ],
     [
       3384,
-      "hungary"
+      "bavaria"
     ],
     [
       3385,
-      "hungary"
+      "bavaria"
     ],
     [
       3386,
-      "hungary"
+      "bavaria"
     ],
     [
       3387,
-      "hungary"
+      "bavaria"
     ],
     [
       3388,
-      "hungary"
+      "bavaria"
     ],
     [
       3389,
-      "hungary"
+      "bavaria"
     ],
     [
       3390,
-      "hungary"
+      "bavaria"
     ],
     [
       3391,
-      "hungary"
+      "bavaria"
     ],
     [
       3392,
-      "hungary"
+      "bavaria"
     ],
     [
       3393,
-      "hungary"
+      "bavaria"
     ],
     [
       3394,
-      "hungary"
+      "bavaria"
     ],
     [
       3395,
-      "hungary"
+      "bavaria"
     ],
     [
       3396,
-      "hungary"
+      "bavaria"
     ],
     [
       3397,
-      "hungary"
+      "bavaria"
     ],
     [
       3398,
-      "hungary"
+      "bavaria"
     ],
     [
       3399,
@@ -13627,27 +13627,27 @@
     ],
     [
       3406,
-      "unclaimed"
+      "netherlands"
     ],
     [
       3407,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       3408,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       3409,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       3410,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       3411,
-      "funj sultanate"
+      "ottoman empire"
     ],
     [
       3412,
@@ -13699,83 +13699,83 @@
     ],
     [
       3424,
-      "hungary"
+      "bavaria"
     ],
     [
       3425,
-      "hungary"
+      "bavaria"
     ],
     [
       3426,
-      "hungary"
+      "bavaria"
     ],
     [
       3427,
-      "hungary"
+      "bavaria"
     ],
     [
       3428,
-      "hungary"
+      "bavaria"
     ],
     [
       3429,
-      "hungary"
+      "bavaria"
     ],
     [
       3430,
-      "hungary"
+      "bavaria"
     ],
     [
       3431,
-      "hungary"
+      "bavaria"
     ],
     [
       3432,
-      "hungary"
+      "bavaria"
     ],
     [
       3433,
-      "hungary"
+      "bavaria"
     ],
     [
       3434,
-      "hungary"
+      "bavaria"
     ],
     [
       3435,
-      "hungary"
+      "bavaria"
     ],
     [
       3436,
-      "hungary"
+      "bavaria"
     ],
     [
       3437,
-      "hungary"
+      "bavaria"
     ],
     [
       3438,
-      "hungary"
+      "bavaria"
     ],
     [
       3439,
-      "hungary"
+      "bavaria"
     ],
     [
       3440,
-      "hungary"
+      "bavaria"
     ],
     [
       3441,
-      "hungary"
+      "bavaria"
     ],
     [
       3442,
-      "hungary"
+      "bavaria"
     ],
     [
       3443,
-      "hungary"
+      "bavaria"
     ],
     [
       3444,
@@ -13783,11 +13783,11 @@
     ],
     [
       3445,
-      "hungary"
+      "bavaria"
     ],
     [
       3446,
-      "hungary"
+      "bavaria"
     ],
     [
       3447,
@@ -13907,63 +13907,63 @@
     ],
     [
       3476,
-      "hungary"
+      "bavaria"
     ],
     [
       3477,
-      "hungary"
+      "bavaria"
     ],
     [
       3478,
-      "hungary"
+      "bavaria"
     ],
     [
       3479,
-      "hungary"
+      "bavaria"
     ],
     [
       3480,
-      "hungary"
+      "bavaria"
     ],
     [
       3481,
-      "hungary"
+      "bavaria"
     ],
     [
       3482,
-      "hungary"
+      "bavaria"
     ],
     [
       3483,
-      "hungary"
+      "bavaria"
     ],
     [
       3484,
-      "hungary"
+      "bavaria"
     ],
     [
       3485,
-      "hungary"
+      "bavaria"
     ],
     [
       3486,
-      "hungary"
+      "bavaria"
     ],
     [
       3487,
-      "hungary"
+      "bavaria"
     ],
     [
       3488,
-      "hungary"
+      "bavaria"
     ],
     [
       3489,
-      "hungary"
+      "bavaria"
     ],
     [
       3490,
-      "hungary"
+      "bavaria"
     ],
     [
       3491,
@@ -13971,27 +13971,27 @@
     ],
     [
       3492,
-      "hungary"
+      "bavaria"
     ],
     [
       3493,
-      "hungary"
+      "bavaria"
     ],
     [
       3494,
-      "hungary"
+      "bavaria"
     ],
     [
       3495,
-      "hungary"
+      "bavaria"
     ],
     [
       3496,
-      "hungary"
+      "bavaria"
     ],
     [
       3497,
-      "hungary"
+      "bavaria"
     ],
     [
       3498,
@@ -14259,23 +14259,23 @@
     ],
     [
       3564,
-      "portugal"
+      "latin empire"
     ],
     [
       3565,
-      "spain"
+      "latin empire"
     ],
     [
       3566,
-      "spain"
+      "latin empire"
     ],
     [
       3567,
-      "spain"
+      "latin empire"
     ],
     [
       3568,
-      "spain"
+      "latin empire"
     ],
     [
       3569,
@@ -14335,7 +14335,7 @@
     ],
     [
       3583,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       3584,
@@ -14399,43 +14399,43 @@
     ],
     [
       3599,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       3600,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       3601,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       3602,
-      "poland-lithuania"
+      "moldavia"
     ],
     [
       3603,
-      "unclaimed"
+      "madagaskar"
     ],
     [
       3604,
-      "unclaimed"
+      "madagaskar"
     ],
     [
       3605,
-      "unclaimed"
+      "madagaskar"
     ],
     [
       3606,
-      "unclaimed"
+      "madagaskar"
     ],
     [
       3607,
-      "avic"
+      "madagaskar"
     ],
     [
       3608,
-      "avic"
+      "madagaskar"
     ],
     [
       3609,
@@ -14687,7 +14687,7 @@
     ],
     [
       3671,
-      "kazakh khanates"
+      "kazakh khanate (russia)"
     ],
     [
       3672,
@@ -14939,7 +14939,7 @@
     ],
     [
       3734,
-      "hre minor states"
+      "sweden"
     ],
     [
       3735,
@@ -15111,7 +15111,7 @@
     ],
     [
       3777,
-      "unclaimed"
+      "latin empire"
     ],
     [
       3778,
@@ -15187,7 +15187,7 @@
     ],
     [
       3796,
-      "tibet"
+      "china"
     ],
     [
       3797,
@@ -15255,19 +15255,19 @@
     ],
     [
       3813,
-      "unclaimed"
+      "latin empire"
     ],
     [
       3814,
-      "portugal"
+      "latin empire"
     ],
     [
       3815,
-      "portugal"
+      "latin empire"
     ],
     [
       3816,
-      "unclaimed"
+      "latin empire"
     ],
     [
       3817,
@@ -15395,7 +15395,7 @@
     ],
     [
       3848,
-      "austrian duchies"
+      "bavaria"
     ],
     [
       3849,
@@ -15419,31 +15419,31 @@
     ],
     [
       3854,
-      "unclaimed"
+      "latin empire"
     ],
     [
       3855,
-      "unclaimed"
+      "latin empire"
     ],
     [
       3856,
-      "unclaimed"
+      "latin empire"
     ],
     [
       3857,
-      "portugal"
+      "latin empire"
     ],
     [
       3858,
-      "portugal"
+      "latin empire"
     ],
     [
       3859,
-      "portugal"
+      "latin empire"
     ],
     [
       3860,
-      "portugal"
+      "latin empire"
     ],
     [
       3861,
@@ -15491,7 +15491,7 @@
     ],
     [
       3872,
-      "contested territories"
+      "unclaimed"
     ],
     [
       3873,
@@ -15547,63 +15547,63 @@
     ],
     [
       3886,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       3887,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       3888,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       3889,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       3890,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       3891,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       3892,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       3893,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       3894,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       3895,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       3896,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       3897,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       3898,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       3899,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       3900,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       3901,
@@ -16415,39 +16415,39 @@
     ],
     [
       4103,
-      "netherlands"
+      "kandy"
     ],
     [
       4104,
-      "netherlands"
+      "kandy"
     ],
     [
       4105,
-      "netherlands"
+      "kandy"
     ],
     [
       4106,
-      "netherlands"
+      "kandy"
     ],
     [
       4107,
-      "netherlands"
+      "kandy"
     ],
     [
       4108,
-      "netherlands"
+      "kandy"
     ],
     [
       4109,
-      "netherlands"
+      "kandy"
     ],
     [
       4110,
-      "netherlands"
+      "kandy"
     ],
     [
       4111,
-      "netherlands"
+      "kandy"
     ],
     [
       4112,
@@ -16455,7 +16455,7 @@
     ],
     [
       4113,
-      "netherlands"
+      "kandy"
     ],
     [
       4114,
@@ -16483,7 +16483,7 @@
     ],
     [
       4120,
-      "contested territories"
+      "russia"
     ],
     [
       4121,
@@ -16507,7 +16507,7 @@
     ],
     [
       4126,
-      "contested territories"
+      "russia"
     ],
     [
       4127,
@@ -16627,7 +16627,7 @@
     ],
     [
       4156,
-      "crimea"
+      "crimean khanate (russia)"
     ],
     [
       4157,
@@ -16639,11 +16639,11 @@
     ],
     [
       4159,
-      "poland-lithuania"
+      "grand duchy of posen"
     ],
     [
       4160,
-      "poland-lithuania"
+      "grand duchy of posen"
     ],
     [
       4161,
@@ -16651,87 +16651,87 @@
     ],
     [
       4162,
-      "spain"
+      "latin empire"
     ],
     [
       4163,
-      "spain"
+      "latin empire"
     ],
     [
       4164,
-      "spain"
+      "latin empire"
     ],
     [
       4165,
-      "spain"
+      "latin empire"
     ],
     [
       4166,
-      "spain"
+      "latin empire"
     ],
     [
       4167,
-      "spain"
+      "latin empire"
     ],
     [
       4168,
-      "spain"
+      "latin empire"
     ],
     [
       4169,
-      "spain"
+      "latin empire"
     ],
     [
       4170,
-      "spain"
+      "latin empire"
     ],
     [
       4171,
-      "spain"
+      "latin empire"
     ],
     [
       4172,
-      "spain"
+      "latin empire"
     ],
     [
       4173,
-      "spain"
+      "latin empire"
     ],
     [
       4174,
-      "spain"
+      "latin empire"
     ],
     [
       4175,
-      "spain"
+      "latin empire"
     ],
     [
       4176,
-      "spain"
+      "latin empire"
     ],
     [
       4177,
-      "spain"
+      "latin empire"
     ],
     [
       4178,
-      "spain"
+      "latin empire"
     ],
     [
       4179,
-      "spain"
+      "latin empire"
     ],
     [
       4180,
-      "spain"
+      "latin empire"
     ],
     [
       4181,
-      "spain"
+      "latin empire"
     ],
     [
       4182,
-      "spain"
+      "latin empire"
     ],
     [
       4183,
@@ -17059,19 +17059,19 @@
     ],
     [
       4264,
-      "ottoman empire"
+      "unclaimed"
     ],
     [
       4265,
-      "ottoman empire"
+      "unclaimed"
     ],
     [
       4266,
-      "contested territories"
+      "kazakh khanate (russia)"
     ],
     [
       4267,
-      "contested territories"
+      "kazakh khanate (russia)"
     ],
     [
       4268,
@@ -17095,27 +17095,27 @@
     ],
     [
       4273,
-      "contested territories"
+      "persia"
     ],
     [
       4274,
-      "contested territories"
+      "persia"
     ],
     [
       4275,
-      "contested territories"
+      "persia"
     ],
     [
       4276,
-      "contested territories"
+      "persia"
     ],
     [
       4277,
-      "mughal empire"
+      "persia"
     ],
     [
       4278,
-      "mughal empire"
+      "persia"
     ],
     [
       4279,
@@ -17127,15 +17127,15 @@
     ],
     [
       4281,
-      "mughal empire"
+      "persia"
     ],
     [
       4282,
-      "contested territories"
+      "persia"
     ],
     [
       4283,
-      "contested territories"
+      "ottoman empire"
     ],
     [
       4284,
@@ -17143,15 +17143,15 @@
     ],
     [
       4285,
-      "mughal empire"
+      "maratha confederacy"
     ],
     [
       4286,
-      "mughal empire"
+      "durrani empire"
     ],
     [
       4287,
-      "mughal empire"
+      "swedish east india company"
     ],
     [
       4288,
@@ -17419,11 +17419,11 @@
     ],
     [
       4354,
-      "contested territories"
+      "north sea empire"
     ],
     [
       4355,
-      "contested territories"
+      "north sea empire"
     ],
     [
       4356,
@@ -17435,7 +17435,7 @@
     ],
     [
       4358,
-      "unclaimed"
+      "north sea empire"
     ],
     [
       4359,
@@ -17447,15 +17447,15 @@
     ],
     [
       4361,
-      "bohemia"
+      "bavaria"
     ],
     [
       4362,
-      "bohemia"
+      "bavaria"
     ],
     [
       4363,
-      "bohemia"
+      "bavaria"
     ],
     [
       4364,
@@ -17467,15 +17467,15 @@
     ],
     [
       4366,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       4367,
-      "kazakh khanates"
+      "kazakh khanate (russia)"
     ],
     [
       4368,
-      "contested territories"
+      "kazakh khanate (russia)"
     ],
     [
       4369,
@@ -17711,7 +17711,7 @@
     ],
     [
       4427,
-      "austrian duchies"
+      "bavaria"
     ],
     [
       4428,
@@ -17995,7 +17995,7 @@
     ],
     [
       4498,
-      "bukhara"
+      "khanate of bukhara (russia)"
     ],
     [
       4499,
@@ -18019,31 +18019,31 @@
     ],
     [
       4504,
-      "spain"
+      "latin empire"
     ],
     [
       4505,
-      "spain"
+      "latin empire"
     ],
     [
       4506,
-      "spain"
+      "latin empire"
     ],
     [
       4507,
-      "spain"
+      "latin empire"
     ],
     [
       4508,
-      "spain"
+      "latin empire"
     ],
     [
       4509,
-      "spain"
+      "latin empire"
     ],
     [
       4510,
-      "spain"
+      "latin empire"
     ],
     [
       4511,
@@ -18191,15 +18191,15 @@
     ],
     [
       4547,
-      "avic"
+      "madagaskar"
     ],
     [
       4548,
-      "avic"
+      "madagaskar"
     ],
     [
       4549,
-      "unclaimed"
+      "madagaskar"
     ],
     [
       4550,
@@ -18436,10 +18436,6 @@
       "color": "#B8860B"
     },
     {
-      "name": "bukhara",
-      "color": "#5F9EA0"
-    },
-    {
       "name": "burma",
       "color": "#DAA520"
     },
@@ -18460,7 +18456,7 @@
       "color": "#ffffff"
     },
     {
-      "name": "crimea",
+      "name": "crimean khanate (russia)",
       "color": "#437a4a"
     },
     {
@@ -18470,6 +18466,10 @@
     {
       "name": "denmark",
       "color": "#C8102E"
+    },
+    {
+      "name": "durrani empire",
+      "color": "#5eff1a"
     },
     {
       "name": "ethiopia",
@@ -18482,6 +18482,10 @@
     {
       "name": "genoa",
       "color": "#9F2D2D"
+    },
+    {
+      "name": "grand duchy of posen",
+      "color": "#4f4f4f"
     },
     {
       "name": "hanover",
@@ -18512,20 +18516,32 @@
       "color": "#32da2f"
     },
     {
+      "name": "hyderabad",
+      "color": "#d9db43"
+    },
+    {
       "name": "japan",
       "color": "#BC002D"
     },
     {
-      "name": "kalmyk khanate",
-      "color": "#94d6ff"
+      "name": "kalmyk khanate (russia)",
+      "color": "#437a4a"
     },
     {
-      "name": "kazakh khanates",
-      "color": "#D2691E"
+      "name": "kandy",
+      "color": "#85477c"
     },
     {
-      "name": "khiva",
-      "color": "#40826D"
+      "name": "kazakh khanate (russia)",
+      "color": "#437a4a"
+    },
+    {
+      "name": "khanate of bukhara (russia)",
+      "color": "#437a4a"
+    },
+    {
+      "name": "khanate of khiva (russia)",
+      "color": "#437a4a"
     },
     {
       "name": "knights of malta",
@@ -18548,6 +18564,14 @@
       "color": "#ff2e2e"
     },
     {
+      "name": "lithuanian duchy",
+      "color": "#497538"
+    },
+    {
+      "name": "madagaskar",
+      "color": "#ddd622"
+    },
+    {
       "name": "malay sultanates",
       "color": "#F4D03F"
     },
@@ -18557,11 +18581,15 @@
     },
     {
       "name": "maratha confederacy",
-      "color": "#F47216"
+      "color": "#e1660e"
+    },
+    {
+      "name": "minor indian states",
+      "color": "#789db0"
     },
     {
       "name": "moldavia",
-      "color": "#ff9300"
+      "color": "#df1c07"
     },
     {
       "name": "morocco",
@@ -18569,7 +18597,7 @@
     },
     {
       "name": "mughal empire",
-      "color": "#1098DC"
+      "color": "#29653b"
     },
     {
       "name": "mysore",
@@ -18637,11 +18665,7 @@
     },
     {
       "name": "saxony",
-      "color": "#8bd07c"
-    },
-    {
-      "name": "seic",
-      "color": "#57ddff"
+      "color": "#4f4f4f"
     },
     {
       "name": "siam",
@@ -18654,6 +18678,14 @@
     {
       "name": "sweden",
       "color": "#034e7c"
+    },
+    {
+      "name": "swedish east india company",
+      "color": "#034e7c"
+    },
+    {
+      "name": "swedish lithuania",
+      "color": "#046dae"
     },
     {
       "name": "switzerland",
@@ -18689,7 +18721,7 @@
     },
     {
       "name": "wallachia",
-      "color": "#73fdff"
+      "color": "#df1c07"
     },
     {
       "name": "yarkent khanate",

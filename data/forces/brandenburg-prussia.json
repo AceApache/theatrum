@@ -6,25 +6,13 @@
     "name": "Army of Prussia",
     "strength": 80000,
     "commander": "Frederick the Great",
-    "lat": 51.09317306026892,
-    "lon": 13.211059570312502,
-    "turnStartLat": 51.09317306026892,
-    "turnStartLon": 13.211059570312502,
-    "kmMovedThisTurn": 0,
-    "createdAtTurn": 49
-  },
-  {
-    "id": "Urchinn-sys-1783911767955-2",
-    "nation": "brandenburg-prussia",
-    "branch": "navy",
-    "name": "Navy of Prussia",
-    "strength": 11,
-    "commander": "",
-    "lat": 53.898176587885835,
-    "lon": 14.287719726562502,
-    "turnStartLat": 53.898176587885835,
-    "turnStartLon": 14.287719726562502,
-    "kmMovedThisTurn": 0,
-    "createdAtTurn": 49
+    "lat": 52.45600939264076,
+    "lon": 13.908691406250002,
+    "turnStartLat": 52.11172596892053,
+    "turnStartLon": 15.417991876602175,
+    "kmMovedThisTurn": 812.4017960546207,
+    "createdAtTurn": 49,
+    "turnStartStrength": 80000,
+    "turnStartBranch": "army"
   }
 ]
