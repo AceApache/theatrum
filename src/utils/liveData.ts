@@ -65,7 +65,7 @@ async function getLatestSha(repo: string): Promise<string> {
  */
 export async function fetchLiveData<T>(filename: string): Promise<T> {
   if (!REPO) {
-    const r = await fetch(`/data/${filename}`);
+    const r = await fetch(`${import.meta.env.BASE_URL}data/${filename}`);
     if (!r.ok) throw new Error(`/data/${filename} → ${r.status}`);
     return (await r.json()) as T;
   }
@@ -84,7 +84,7 @@ export async function fetchLiveData<T>(filename: string): Promise<T> {
  */
 export async function fetchLiveDataFresh<T>(filename: string): Promise<T> {
   if (!REPO) {
-    const r = await fetch(`/data/${filename}`);
+    const r = await fetch(`${import.meta.env.BASE_URL}data/${filename}`);
     if (!r.ok) throw new Error(`/data/${filename} → ${r.status}`);
     return (await r.json()) as T;
   }

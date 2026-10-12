@@ -14,15 +14,15 @@ interface Manifest {
 async function fetchManifest(): Promise<Manifest> {
   const [provinces, cities, population1800, snapshot] = await Promise.all([
     // Static factory data — bundled into the deploy.
-    fetch('/data/provinces.geojson').then((r) => r.json() as Promise<ProvinceCollection>),
-    fetch('/data/cities.json').then((r) => r.json() as Promise<City[]>),
+    fetch(`${import.meta.env.BASE_URL}data/provinces.geojson`).then((r) => r.json() as Promise<ProvinceCollection>),
+    fetch(`${import.meta.env.BASE_URL}data/cities.json`).then((r) => r.json() as Promise<City[]>),
     // Baked adm1_code -> 1800 population. Static factory data like the geojson,
     // NOT live state: it never changes between moves, so it deliberately stays
     // out of the SHA-pinned snapshot and out of the schema version contract.
     // The catch is the whole graceful-degradation story — a missing file, a 404
     // that comes back as SPA index.html, or malformed JSON must cost us the
     // population row, not the map.
-    fetch('/data/population1800.json')
+    fetch(`${import.meta.env.BASE_URL}data/population1800.json`)
       .then((r) => r.json() as Promise<Record<string, number>>)
       .catch(() => ({}) as Record<string, number>),
     // Live game state — assembled from state.json (global) + per-nation
